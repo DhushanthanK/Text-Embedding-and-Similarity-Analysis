@@ -84,4 +84,4 @@ plt.show()
 
 ## Contact
 
-For questions or feedback, please contact [your-email@example.com](mailto:dhushanthankumararatnam@gmail.com).
+For questions or feedback, please contact [dhushanthankumararatnam@gmail.com](mailto:dhushanthankumararatnam@gmail.com).
