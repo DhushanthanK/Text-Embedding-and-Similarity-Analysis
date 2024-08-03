@@ -1,0 +1,10 @@
+embedding:
+  model_name: "bert-base-uncased"
+  embed_size: 512
+  output_embed_size: 128
+  max_seq_len: 64
+
+training:
+  num_epochs: 10
+  batch_size: 32
+  learning_rate: 1e-5

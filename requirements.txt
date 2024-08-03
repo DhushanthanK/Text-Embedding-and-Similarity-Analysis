@@ -1,0 +1,10 @@
+datasets
+transformers
+torch
+numpy
+pandas
+scipy
+seaborn
+matplotlib
+gensim
+sentence_transformers
