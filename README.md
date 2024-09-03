@@ -1,4 +1,4 @@
-# BERT-Contextual-Embedding-Analyzer
+# Text Embedding and Similarity Analysis
 
 This project aims to analyze and visualize word and sentence embeddings using various models like BERT and GloVe.
 
